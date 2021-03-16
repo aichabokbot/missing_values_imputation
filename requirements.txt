@@ -1,0 +1,9 @@
+pandas
+matplotlib
+pyspark
+jupyter
+azure-storage-blob
+tqdm
+sklearn
+py-bpca
+scipy
